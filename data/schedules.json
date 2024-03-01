@@ -1,0 +1,101 @@
+[
+    {
+        "day": "Tuesday",
+        "startTime": "7:00 PM",
+        "endTime": "9:45 PM",
+        "roomNumber": "CS 110B",
+        "buildingName": "Computer Science",
+        "department": "CPSC",
+        "course": "101",
+        "className": "Network Security",
+        "professor": "John Doe"
+    },
+    {
+        "day": "Monday",
+        "startTime": "11:00 AM",
+        "endTime": "1:45 PM",
+        "roomNumber": "CS 104",
+        "buildingName": "Computer Science",
+        "department": "CPSC",
+        "course": "484",
+        "className": "Principles of Computer Graphics",
+        "professor": "Jane Smith"
+    },
+    {
+        "day": "Monday",
+        "startTime": "7:00 PM",
+        "endTime": "9:45 PM",
+        "roomNumber": "EC 063 - Lecture Room",
+        "buildingName": "Education Class",
+        "department": "CPSC",
+        "course": "483",
+        "className": "Introduction to Machine Learning",
+        "professor": "Alice Johnson"
+    },
+    {
+        "day": "Wednesday",
+        "startTime": "11:30 AM",
+        "endTime": "2:15 PM",
+        "roomNumber": "Hum 413",
+        "buildingName": "Humanities",
+        "department": "CPSC",
+        "course": "486",
+        "className": "Game Programming",
+        "professor": "Bob Brown"
+    },
+    {
+        "day": "Thursday",
+        "startTime": "7:00 PM",
+        "endTime": "9:45 PM",
+        "roomNumber": "RGC 019",
+        "buildingName": "RGC",
+        "department": "CPSC",
+        "course": "464",
+        "className": "Software Architecture",
+        "professor": "Alice Johnson"
+    },
+    {
+        "day": "Monday",
+        "startTime": "7:00 PM",
+        "endTime": "9:45 PM",
+        "roomNumber": "CS 102A",
+        "buildingName": "Computer Science",
+        "department": "CPSC",
+        "course": "449",
+        "className": "Web Back-End Engineering",
+        "professor": "Diana Evans"
+    },
+    {
+        "day": "Monday",
+        "startTime": "11:00 AM",
+        "endTime": "12:50 PM",
+        "roomNumber": "CS 101",
+        "buildingName": "Computer Science",
+        "department": "CPSC",
+        "course": "411",
+        "className": "Mobile Device Application Programming",
+        "professor": "Ethan Fox"
+    },
+    {
+        "day": "Monday",
+        "startTime": "11:00 AM",
+        "endTime": "12:50 PM",
+        "roomNumber": "EC 321",
+        "buildingName": "Education Class",
+        "department": "CPSC",
+        "course": "411",
+        "className": "Mobile Device Application Programming",
+        "professor": "Fiona Green"
+    },
+    {
+        "day": "Thursday",
+        "startTime": "11:00 AM",
+        "endTime": "12:50 PM",
+        "roomNumber": "CS 102A",
+        "buildingName": "Computer Science",
+        "department": "CPSC",
+        "course": "440",
+        "className": "Computer System Architecture",
+        "professor": "George Hill"
+    }
+]
